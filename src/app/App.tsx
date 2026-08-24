@@ -1,5 +1,5 @@
-import { EduEmLanding } from "./components/EduEmLanding";
+import { PromoLanding } from "../pages/PromoLanding";
 
 export default function App() {
-  return <EduEmLanding />;
+  return <PromoLanding />;
 }

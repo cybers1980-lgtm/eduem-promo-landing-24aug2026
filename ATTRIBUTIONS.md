@@ -1,3 +1,5 @@
-This Figma Make file includes components from [shadcn/ui](https://ui.shadcn.com/) used under [MIT license](https://github.com/shadcn-ui/ui/blob/main/LICENSE.md).
+The site uses brand materials supplied in `src/assets/eduem/`.
 
-This Figma Make file includes photos from [Unsplash](https://unsplash.com) used under [license](https://unsplash.com/license).
+The Apple and Google Play SVG marks are sourced from [Simple Icons](https://simpleicons.org/) under CC0-1.0.
+
+The RuStore SVG mark is sourced from the official RuStore asset mirrored by [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RuStore_logo.svg).
